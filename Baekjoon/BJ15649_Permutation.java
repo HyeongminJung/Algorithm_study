@@ -1,9 +1,9 @@
-package test;
+package complete;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class NandM_1 {
 	public static void main(String[] args) {
         int N=0, M =0;
         Scanner input = new Scanner(System.in);
