@@ -6,9 +6,6 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-import test.Main.Node;
-
-
 public class Bipartite_Graph {
 	static int V, E;
 	static Node[] nodes;
